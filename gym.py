@@ -1,8 +1,3 @@
-'''
-Author: Xinran Zhang
-SID: 500671702
-Unikey: xzha0459
-'''
 import math
 
 # First Task
